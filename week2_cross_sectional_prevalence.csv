@@ -1,0 +1,241 @@
+id,region,sex,age_group,bmi_category,hypertension,diabetes
+1,Ashanti,Male,15-24,Normal,0,0
+2,Ashanti,Female,35-44,Overweight,0,0
+3,Upper East,Female,45-54,Normal,0,0
+4,Volta,Female,45-54,Normal,0,0
+5,Western,Male,25-34,Normal,0,0
+6,Northern,Female,15-24,Obese,1,0
+7,Northern,Female,25-34,Overweight,0,0
+8,Northern,Male,35-44,Normal,1,0
+9,Northern,Male,15-24,Normal,0,0
+10,Western,Female,15-24,Normal,0,0
+11,Ashanti,Male,15-24,Obese,0,0
+12,Western,Female,35-44,Overweight,0,0
+13,Greater Accra,Female,45-54,Normal,0,0
+14,Greater Accra,Male,15-24,Obese,0,0
+15,Western,Male,45-54,Normal,1,1
+16,Upper East,Female,35-44,Overweight,0,0
+17,Western,Male,15-24,Normal,0,0
+18,Volta,Male,25-34,Obese,0,0
+19,Volta,Female,35-44,Normal,1,0
+20,Greater Accra,Female,45-54,Normal,0,0
+21,Northern,Female,55+,Normal,0,1
+22,Greater Accra,Female,35-44,Overweight,1,0
+23,Western,Female,15-24,Normal,0,0
+24,Upper East,Female,35-44,Normal,1,0
+25,Volta,Female,35-44,Normal,0,0
+26,Volta,Male,45-54,Overweight,0,0
+27,Upper East,Female,15-24,Obese,1,0
+28,Western,Female,35-44,Normal,0,1
+29,Northern,Male,35-44,Normal,0,0
+30,Western,Female,35-44,Overweight,1,0
+31,Western,Male,45-54,Normal,1,1
+32,Northern,Male,25-34,Overweight,0,0
+33,Upper East,Male,55+,Obese,1,0
+34,Upper East,Female,25-34,Obese,0,0
+35,Volta,Male,45-54,Normal,0,0
+36,Upper East,Female,35-44,Normal,0,0
+37,Greater Accra,Male,15-24,Overweight,0,0
+38,Greater Accra,Male,25-34,Normal,0,0
+39,Volta,Female,25-34,Normal,0,0
+40,Greater Accra,Female,45-54,Normal,0,0
+41,Volta,Female,25-34,Overweight,0,0
+42,Western,Female,35-44,Overweight,0,0
+43,Northern,Male,55+,Overweight,0,0
+44,Western,Male,25-34,Overweight,0,0
+45,Northern,Male,15-24,Obese,0,0
+46,Western,Male,35-44,Normal,1,0
+47,Upper East,Female,45-54,Obese,0,0
+48,Western,Male,45-54,Overweight,1,1
+49,Greater Accra,Female,45-54,Normal,1,0
+50,Northern,Male,15-24,Normal,0,0
+51,Upper East,Female,15-24,Obese,0,0
+52,Volta,Male,45-54,Overweight,1,0
+53,Ashanti,Female,55+,Overweight,0,1
+54,Western,Female,15-24,Overweight,0,0
+55,Volta,Male,25-34,Normal,0,0
+56,Volta,Male,25-34,Normal,0,0
+57,Greater Accra,Female,45-54,Obese,0,1
+58,Ashanti,Female,25-34,Normal,0,0
+59,Greater Accra,Female,35-44,Obese,0,0
+60,Greater Accra,Female,35-44,Overweight,0,0
+61,Greater Accra,Male,55+,Overweight,1,0
+62,Western,Female,35-44,Overweight,0,0
+63,Volta,Male,55+,Normal,0,0
+64,Western,Female,55+,Obese,1,1
+65,Greater Accra,Male,45-54,Obese,0,1
+66,Volta,Female,25-34,Normal,1,0
+67,Volta,Female,25-34,Overweight,0,0
+68,Northern,Female,35-44,Normal,0,0
+69,Ashanti,Female,45-54,Normal,0,0
+70,Ashanti,Male,15-24,Normal,0,0
+71,Western,Female,15-24,Obese,0,0
+72,Northern,Male,15-24,Overweight,1,0
+73,Volta,Male,55+,Obese,1,0
+74,Volta,Female,15-24,Normal,0,0
+75,Northern,Male,15-24,Normal,0,0
+76,Greater Accra,Female,15-24,Normal,0,0
+77,Greater Accra,Female,45-54,Normal,0,0
+78,Ashanti,Male,25-34,Overweight,1,0
+79,Western,Male,15-24,Overweight,1,0
+80,Upper East,Male,25-34,Overweight,1,0
+81,Northern,Female,25-34,Overweight,1,0
+82,Western,Female,35-44,Normal,0,0
+83,Upper East,Female,25-34,Overweight,0,0
+84,Volta,Male,15-24,Obese,0,0
+85,Ashanti,Male,15-24,Normal,0,0
+86,Northern,Female,25-34,Overweight,0,1
+87,Volta,Male,15-24,Normal,0,0
+88,Volta,Female,35-44,Overweight,0,0
+89,Western,Female,25-34,Obese,0,0
+90,Upper East,Male,35-44,Normal,1,0
+91,Northern,Female,55+,Normal,0,0
+92,Volta,Male,15-24,Normal,0,0
+93,Northern,Female,45-54,Normal,0,0
+94,Upper East,Male,45-54,Obese,1,0
+95,Northern,Male,35-44,Normal,0,0
+96,Western,Male,35-44,Overweight,0,0
+97,Greater Accra,Male,25-34,Normal,0,0
+98,Upper East,Male,25-34,Normal,0,0
+99,Ashanti,Male,45-54,Normal,0,0
+100,Volta,Female,45-54,Normal,0,0
+101,Volta,Female,45-54,Normal,0,0
+102,Greater Accra,Female,35-44,Normal,0,0
+103,Upper East,Female,55+,Obese,1,0
+104,Ashanti,Female,15-24,Normal,0,0
+105,Northern,Male,55+,Overweight,0,0
+106,Ashanti,Female,45-54,Normal,0,0
+107,Ashanti,Female,35-44,Obese,1,0
+108,Upper East,Male,15-24,Normal,0,0
+109,Upper East,Female,55+,Overweight,1,0
+110,Volta,Male,25-34,Overweight,0,0
+111,Volta,Female,55+,Overweight,1,0
+112,Ashanti,Female,35-44,Normal,0,0
+113,Northern,Female,25-34,Overweight,0,0
+114,Upper East,Male,35-44,Overweight,0,0
+115,Volta,Male,35-44,Normal,1,0
+116,Volta,Male,25-34,Normal,0,0
+117,Ashanti,Female,25-34,Overweight,0,0
+118,Northern,Male,25-34,Normal,1,0
+119,Volta,Male,25-34,Normal,0,0
+120,Upper East,Male,35-44,Overweight,1,0
+121,Greater Accra,Female,35-44,Normal,0,0
+122,Western,Male,35-44,Normal,0,0
+123,Northern,Male,15-24,Normal,0,0
+124,Greater Accra,Male,45-54,Obese,0,0
+125,Volta,Female,15-24,Obese,1,0
+126,Greater Accra,Female,45-54,Obese,0,0
+127,Greater Accra,Male,35-44,Overweight,0,0
+128,Upper East,Female,55+,Normal,0,0
+129,Upper East,Female,25-34,Normal,0,0
+130,Greater Accra,Female,35-44,Overweight,0,0
+131,Western,Male,35-44,Overweight,0,0
+132,Western,Female,15-24,Overweight,0,0
+133,Upper East,Male,45-54,Obese,0,0
+134,Western,Male,45-54,Normal,0,0
+135,Upper East,Female,25-34,Overweight,0,0
+136,Volta,Female,55+,Obese,1,1
+137,Upper East,Female,55+,Obese,1,0
+138,Greater Accra,Female,25-34,Normal,0,0
+139,Greater Accra,Male,45-54,Overweight,0,0
+140,Western,Male,25-34,Normal,0,0
+141,Western,Female,25-34,Normal,1,0
+142,Ashanti,Male,25-34,Normal,0,0
+143,Western,Male,25-34,Overweight,0,0
+144,Ashanti,Female,55+,Normal,0,1
+145,Volta,Male,45-54,Obese,1,0
+146,Northern,Female,25-34,Overweight,0,0
+147,Western,Female,15-24,Normal,0,0
+148,Western,Male,15-24,Overweight,0,0
+149,Northern,Female,15-24,Obese,0,0
+150,Upper East,Male,45-54,Overweight,0,0
+151,Greater Accra,Male,35-44,Normal,0,0
+152,Upper East,Female,15-24,Overweight,0,0
+153,Western,Male,55+,Obese,0,0
+154,Upper East,Female,15-24,Normal,0,0
+155,Ashanti,Male,15-24,Overweight,0,0
+156,Ashanti,Female,35-44,Normal,0,0
+157,Northern,Female,15-24,Normal,0,0
+158,Greater Accra,Male,35-44,Normal,1,0
+159,Greater Accra,Female,55+,Obese,0,0
+160,Western,Male,45-54,Overweight,1,0
+161,Volta,Female,55+,Normal,0,0
+162,Greater Accra,Female,45-54,Overweight,1,0
+163,Ashanti,Female,35-44,Overweight,0,1
+164,Greater Accra,Male,25-34,Normal,1,0
+165,Volta,Female,55+,Normal,0,0
+166,Ashanti,Male,45-54,Overweight,0,1
+167,Greater Accra,Female,15-24,Obese,0,0
+168,Upper East,Male,25-34,Overweight,0,0
+169,Volta,Male,35-44,Normal,0,1
+170,Ashanti,Male,15-24,Normal,0,0
+171,Northern,Female,15-24,Normal,0,0
+172,Western,Male,25-34,Obese,0,0
+173,Greater Accra,Male,25-34,Obese,1,0
+174,Upper East,Male,45-54,Normal,0,0
+175,Ashanti,Female,25-34,Overweight,0,0
+176,Western,Female,35-44,Normal,0,0
+177,Ashanti,Female,35-44,Normal,1,0
+178,Greater Accra,Male,35-44,Normal,1,0
+179,Western,Male,25-34,Normal,1,0
+180,Ashanti,Female,15-24,Normal,0,0
+181,Ashanti,Female,35-44,Normal,0,1
+182,Northern,Male,15-24,Normal,1,0
+183,Volta,Male,35-44,Normal,1,0
+184,Western,Male,45-54,Normal,1,0
+185,Ashanti,Female,25-34,Overweight,0,0
+186,Ashanti,Male,35-44,Normal,0,0
+187,Northern,Female,15-24,Obese,0,0
+188,Volta,Female,15-24,Overweight,0,0
+189,Western,Female,25-34,Obese,0,0
+190,Ashanti,Male,15-24,Obese,0,1
+191,Volta,Male,25-34,Overweight,0,0
+192,Western,Male,25-34,Normal,0,1
+193,Greater Accra,Male,25-34,Normal,0,0
+194,Ashanti,Female,45-54,Normal,0,0
+195,Northern,Male,15-24,Obese,0,0
+196,Volta,Male,25-34,Normal,0,0
+197,Greater Accra,Female,25-34,Normal,0,0
+198,Volta,Male,35-44,Normal,0,0
+199,Western,Male,55+,Normal,0,0
+200,Northern,Male,25-34,Normal,0,0
+201,Western,Male,25-34,Normal,0,0
+202,Upper East,Male,35-44,Normal,1,0
+203,Ashanti,Female,35-44,Normal,1,0
+204,Northern,Female,15-24,Overweight,0,0
+205,Northern,Female,25-34,Overweight,0,0
+206,Ashanti,Female,35-44,Overweight,0,0
+207,Greater Accra,Male,45-54,Normal,1,0
+208,Western,Female,35-44,Normal,1,0
+209,Upper East,Male,15-24,Overweight,0,0
+210,Ashanti,Male,35-44,Obese,1,0
+211,Greater Accra,Male,25-34,Normal,0,0
+212,Western,Male,45-54,Obese,1,0
+213,Volta,Female,55+,Normal,0,0
+214,Greater Accra,Male,15-24,Obese,0,0
+215,Upper East,Male,25-34,Obese,0,0
+216,Western,Female,35-44,Normal,0,0
+217,Northern,Male,15-24,Normal,0,0
+218,Northern,Female,25-34,Overweight,0,0
+219,Greater Accra,Female,35-44,Obese,0,0
+220,Western,Female,55+,Normal,0,0
+221,Western,Female,25-34,Overweight,0,0
+222,Northern,Female,35-44,Normal,0,0
+223,Volta,Female,25-34,Normal,1,0
+224,Upper East,Male,25-34,Overweight,1,0
+225,Greater Accra,Male,25-34,Normal,0,0
+226,Ashanti,Female,45-54,Obese,1,0
+227,Western,Male,15-24,Obese,0,0
+228,Volta,Female,45-54,Normal,0,0
+229,Upper East,Female,25-34,Obese,0,1
+230,Northern,Male,15-24,Overweight,0,0
+231,Northern,Female,45-54,Overweight,1,0
+232,Volta,Male,25-34,Normal,0,0
+233,Greater Accra,Male,35-44,Obese,1,0
+234,Northern,Female,15-24,Normal,0,0
+235,Northern,Male,35-44,Normal,1,1
+236,Upper East,Female,15-24,Obese,0,0
+237,Northern,Male,15-24,Normal,0,0
+238,Ashanti,Male,35-44,Obese,0,0
+239,Northern,Female,25-34,Normal,0,0
+240,Volta,Male,35-44,Normal,0,0

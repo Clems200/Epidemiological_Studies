@@ -1,0 +1,181 @@
+child_id,district,sex,age_months,bednet_use,person_months,new_malaria_episode
+1,Ejisu,Female,32,Yes,3,0
+2,Kumasi Metro,Female,48,No,6,1
+3,Mampong,Male,36,No,4,0
+4,Mampong,Male,39,No,4,0
+5,Asante Akim North,Male,47,No,5,1
+6,Offinso,Male,26,No,5,0
+7,Offinso,Female,8,Yes,3,0
+8,Mampong,Female,21,Yes,6,0
+9,Obuasi,Male,41,No,3,0
+10,Offinso,Female,8,Yes,3,0
+11,Ejisu,Female,5,Yes,5,0
+12,Kumasi Metro,Female,25,Yes,3,0
+13,Kumasi Metro,Female,21,No,6,0
+14,Kumasi Metro,Female,35,No,4,0
+15,Obuasi,Male,13,Yes,6,0
+16,Obuasi,Male,26,Yes,3,0
+17,Offinso,Male,9,Yes,6,0
+18,Offinso,Female,1,Yes,4,0
+19,Offinso,Female,55,No,5,0
+20,Offinso,Male,18,Yes,4,0
+21,Offinso,Male,32,Yes,3,0
+22,Obuasi,Female,3,Yes,6,0
+23,Kumasi Metro,Female,43,Yes,4,0
+24,Obuasi,Male,11,Yes,3,0
+25,Kumasi Metro,Male,22,Yes,6,0
+26,Obuasi,Female,42,No,5,0
+27,Mampong,Female,21,Yes,3,0
+28,Mampong,Male,57,Yes,6,0
+29,Kumasi Metro,Female,43,Yes,5,0
+30,Obuasi,Female,56,No,6,0
+31,Offinso,Female,56,No,5,1
+32,Ejisu,Male,31,Yes,3,0
+33,Obuasi,Male,10,No,4,0
+34,Ejisu,Male,34,No,5,0
+35,Offinso,Male,33,No,4,1
+36,Offinso,Female,27,Yes,5,0
+37,Ejisu,Female,39,Yes,4,1
+38,Offinso,Male,49,No,5,0
+39,Offinso,Female,44,Yes,6,0
+40,Obuasi,Female,59,Yes,4,0
+41,Obuasi,Male,13,Yes,6,0
+42,Kumasi Metro,Female,13,Yes,5,0
+43,Ejisu,Male,29,Yes,3,0
+44,Offinso,Male,45,Yes,6,0
+45,Mampong,Male,31,No,3,0
+46,Offinso,Female,27,No,3,0
+47,Obuasi,Female,34,Yes,4,0
+48,Offinso,Female,2,Yes,3,1
+49,Offinso,Male,11,Yes,6,0
+50,Offinso,Female,44,No,3,0
+51,Asante Akim North,Female,21,Yes,3,0
+52,Ejisu,Male,40,Yes,6,0
+53,Ejisu,Male,4,No,6,0
+54,Ejisu,Female,29,Yes,3,0
+55,Offinso,Female,28,Yes,6,0
+56,Offinso,Male,14,No,5,0
+57,Ejisu,Female,56,Yes,3,0
+58,Offinso,Female,24,No,3,1
+59,Offinso,Male,12,Yes,3,0
+60,Ejisu,Female,20,No,6,1
+61,Asante Akim North,Male,4,Yes,3,0
+62,Offinso,Male,45,No,5,1
+63,Offinso,Female,9,No,6,1
+64,Mampong,Male,37,Yes,4,0
+65,Kumasi Metro,Female,38,No,6,0
+66,Mampong,Female,3,Yes,5,0
+67,Obuasi,Female,57,Yes,4,0
+68,Kumasi Metro,Male,1,Yes,5,0
+69,Mampong,Male,15,No,3,0
+70,Offinso,Male,21,Yes,3,0
+71,Offinso,Female,13,Yes,5,0
+72,Obuasi,Male,50,No,4,1
+73,Ejisu,Male,33,Yes,3,0
+74,Obuasi,Male,39,Yes,6,0
+75,Mampong,Male,53,Yes,6,0
+76,Obuasi,Female,59,Yes,5,1
+77,Ejisu,Female,50,No,4,1
+78,Obuasi,Female,42,Yes,3,0
+79,Ejisu,Female,57,No,6,1
+80,Asante Akim North,Male,32,Yes,4,0
+81,Kumasi Metro,Female,29,No,4,0
+82,Offinso,Female,44,No,3,0
+83,Asante Akim North,Female,56,Yes,3,1
+84,Kumasi Metro,Female,42,No,4,1
+85,Obuasi,Female,19,Yes,4,0
+86,Kumasi Metro,Male,36,Yes,4,0
+87,Mampong,Male,23,Yes,4,0
+88,Obuasi,Male,38,No,4,0
+89,Asante Akim North,Male,59,Yes,5,0
+90,Mampong,Female,19,Yes,3,0
+91,Offinso,Female,37,No,4,0
+92,Mampong,Male,44,No,5,1
+93,Kumasi Metro,Female,3,Yes,4,1
+94,Kumasi Metro,Female,45,Yes,4,0
+95,Mampong,Female,50,No,4,0
+96,Ejisu,Female,13,Yes,6,1
+97,Ejisu,Female,38,Yes,6,0
+98,Kumasi Metro,Male,22,Yes,6,0
+99,Mampong,Male,24,Yes,3,0
+100,Asante Akim North,Female,45,Yes,3,0
+101,Kumasi Metro,Female,45,Yes,5,0
+102,Kumasi Metro,Male,9,No,5,1
+103,Asante Akim North,Male,5,Yes,4,0
+104,Obuasi,Male,55,Yes,5,0
+105,Ejisu,Male,55,No,3,1
+106,Offinso,Female,33,Yes,3,0
+107,Asante Akim North,Female,59,Yes,4,0
+108,Mampong,Female,39,Yes,5,0
+109,Offinso,Male,40,Yes,5,0
+110,Asante Akim North,Male,10,No,3,0
+111,Asante Akim North,Male,3,Yes,3,0
+112,Offinso,Female,56,Yes,3,0
+113,Mampong,Male,20,Yes,6,0
+114,Mampong,Male,26,Yes,5,0
+115,Mampong,Male,55,Yes,4,1
+116,Asante Akim North,Female,21,Yes,6,0
+117,Offinso,Male,32,No,3,0
+118,Asante Akim North,Male,49,Yes,4,0
+119,Ejisu,Female,15,No,3,0
+120,Obuasi,Male,40,Yes,6,0
+121,Kumasi Metro,Female,46,Yes,3,1
+122,Offinso,Male,49,No,5,0
+123,Asante Akim North,Male,6,Yes,6,0
+124,Ejisu,Female,5,Yes,4,0
+125,Offinso,Female,59,Yes,6,0
+126,Obuasi,Male,37,Yes,5,1
+127,Offinso,Female,31,No,4,0
+128,Mampong,Male,43,No,3,0
+129,Offinso,Male,41,No,4,0
+130,Offinso,Female,2,No,4,0
+131,Kumasi Metro,Female,30,Yes,4,0
+132,Offinso,Male,17,Yes,5,1
+133,Obuasi,Female,50,Yes,6,0
+134,Kumasi Metro,Female,16,Yes,5,0
+135,Ejisu,Female,57,Yes,3,0
+136,Obuasi,Male,53,No,3,0
+137,Asante Akim North,Female,8,No,5,1
+138,Obuasi,Male,6,Yes,3,1
+139,Mampong,Male,48,Yes,4,0
+140,Ejisu,Male,55,Yes,4,0
+141,Kumasi Metro,Female,23,Yes,6,0
+142,Mampong,Male,48,No,4,0
+143,Offinso,Female,15,Yes,3,0
+144,Asante Akim North,Male,32,Yes,6,0
+145,Mampong,Female,39,No,3,0
+146,Offinso,Male,19,Yes,3,0
+147,Kumasi Metro,Male,14,Yes,4,0
+148,Asante Akim North,Female,50,Yes,4,0
+149,Mampong,Male,18,Yes,5,0
+150,Offinso,Female,38,No,6,1
+151,Offinso,Male,33,Yes,3,0
+152,Ejisu,Male,43,No,3,0
+153,Ejisu,Male,18,No,3,1
+154,Offinso,Male,27,No,4,0
+155,Ejisu,Female,4,Yes,5,0
+156,Asante Akim North,Male,22,Yes,3,0
+157,Obuasi,Female,55,Yes,4,0
+158,Obuasi,Male,57,Yes,5,0
+159,Mampong,Male,6,Yes,4,0
+160,Asante Akim North,Female,19,No,3,1
+161,Offinso,Female,18,Yes,4,0
+162,Kumasi Metro,Male,39,No,5,0
+163,Obuasi,Female,57,Yes,3,0
+164,Mampong,Male,32,Yes,5,0
+165,Offinso,Male,12,Yes,3,0
+166,Mampong,Male,3,Yes,6,1
+167,Kumasi Metro,Male,1,No,5,0
+168,Mampong,Male,27,Yes,5,0
+169,Asante Akim North,Male,50,Yes,5,0
+170,Mampong,Female,1,Yes,6,0
+171,Asante Akim North,Female,27,No,4,0
+172,Offinso,Female,31,No,3,1
+173,Kumasi Metro,Female,2,Yes,6,0
+174,Kumasi Metro,Male,13,No,3,0
+175,Obuasi,Male,41,No,3,0
+176,Offinso,Male,14,Yes,4,0
+177,Obuasi,Female,21,Yes,5,0
+178,Kumasi Metro,Male,18,Yes,3,1
+179,Ejisu,Female,39,Yes,4,0
+180,Mampong,Female,28,No,4,0

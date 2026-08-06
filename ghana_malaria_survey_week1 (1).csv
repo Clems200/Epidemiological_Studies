@@ -1,0 +1,401 @@
+id,region,district,age_months,sex,fever,rdt_result,bednet_use,month
+1,Ashanti,Ejisu,56,Male,No,Negative,Yes,February
+2,Northern,Tamale,21,Male,No,Negative,Yes,October
+3,Bono,Sunyani,22,Female,Yes,Negative,No,February
+4,Volta,Ho,47,Male,Yes,Positive,Yes,February
+5,Northern,Tamale,59,Male,No,Negative,No,April
+6,Volta,Ho,58,Male,No,Negative,Yes,April
+7,Ashanti,Ejisu,22,Female,No,Negative,Yes,November
+8,Central,Cape Coast,24,Female,Yes,Negative,Yes,July
+9,Volta,Ho,53,Female,No,Negative,Yes,May
+10,Ashanti,Asokore,28,Male,No,Negative,No,March
+11,Volta,Ho,19,Male,Yes,Negative,Yes,March
+12,Northern,Tamale,24,Female,No,Negative,Yes,May
+13,Ashanti,Ejisu,48,Male,Yes,Negative,Yes,May
+14,Ashanti,Ejisu,46,Male,Yes,Negative,Yes,April
+15,Bono,Sunyani,38,Female,No,Negative,No,September
+16,Volta,Ho,13,Male,No,Positive,Yes,August
+17,Volta,Ho,8,Male,No,Positive,No,March
+18,Ashanti,Ejisu,22,Male,No,Negative,Yes,September
+19,Bono,Sunyani,42,Male,No,Negative,Yes,January
+20,Ashanti,Asokore,37,Male,Yes,Negative,Yes,February
+21,Volta,Ho,32,Male,No,Positive,Yes,December
+22,Bono,Sunyani,44,Female,Yes,Negative,Yes,June
+23,Volta,Ho,9,Female,Yes,Positive,Yes,May
+24,Volta,Ho,7,Female,Yes,Negative,Yes,December
+25,Ashanti,Asokore,46,Female,Yes,Negative,No,January
+26,Volta,Ho,7,Male,Yes,Negative,Yes,August
+27,Northern,Tamale,40,Female,Yes,Positive,No,July
+28,Ashanti,Asokore,23,Male,Yes,Negative,Yes,April
+29,Bono,Sunyani,33,Male,Yes,Positive,No,March
+30,Northern,Tamale,53,Female,No,Negative,Yes,March
+31,Volta,Ho,40,Male,Yes,Negative,Yes,November
+32,Volta,Ho,43,Male,No,Negative,No,November
+33,Volta,Ho,27,Female,No,Negative,No,July
+34,Central,Cape Coast,31,Female,Yes,Negative,Yes,November
+35,Volta,Ho,5,Male,Yes,Negative,Yes,March
+36,Bono,Sunyani,21,Female,No,Negative,No,August
+37,Volta,Ho,56,Male,Yes,Negative,No,May
+38,Volta,Ho,24,Female,No,Negative,Yes,January
+39,Northern,Tamale,50,Female,Yes,Negative,No,December
+40,Northern,Tamale,19,Female,No,Positive,Yes,September
+41,Central,Cape Coast,5,Male,Yes,Negative,No,March
+42,Northern,Tamale,55,Male,No,Negative,Yes,October
+43,Ashanti,Asokore,9,Female,Yes,Positive,No,July
+44,Northern,Tamale,16,Female,Yes,Negative,Yes,June
+45,Ashanti,Asokore,22,Female,Yes,Negative,No,April
+46,Volta,Ho,3,Male,No,Negative,No,December
+47,Ashanti,Asokore,10,Male,No,Positive,Yes,July
+48,Central,Cape Coast,38,Female,No,Positive,Yes,September
+49,Northern,Tamale,43,Male,Yes,Positive,Yes,December
+50,Volta,Ho,52,Female,Yes,Negative,Yes,April
+51,Central,Cape Coast,6,Male,No,Negative,Yes,October
+52,Central,Cape Coast,37,Male,No,Negative,Yes,March
+53,Ashanti,Ejisu,20,Male,Yes,Negative,Yes,February
+54,Volta,Ho,15,Female,Yes,Positive,Yes,February
+55,Ashanti,Ejisu,22,Female,Yes,Positive,Yes,November
+56,Volta,Ho,35,Male,Yes,Positive,Yes,November
+57,Ashanti,Asokore,20,Female,No,Positive,No,February
+58,Ashanti,Ejisu,10,Male,Yes,Positive,Yes,February
+59,Central,Cape Coast,14,Female,Yes,Negative,No,February
+60,Volta,Ho,35,Male,Yes,Negative,No,June
+61,Northern,Tamale,3,Male,Yes,Negative,Yes,October
+62,Volta,Ho,51,Female,No,Negative,Yes,February
+63,Volta,Ho,39,Male,Yes,Positive,No,May
+64,Ashanti,Ejisu,5,Male,Yes,Negative,Yes,April
+65,Bono,Sunyani,36,Female,Yes,Positive,No,December
+66,Central,Cape Coast,25,Female,No,Negative,Yes,January
+67,Volta,Ho,55,Female,Yes,Positive,No,October
+68,Bono,Sunyani,4,Male,Yes,Positive,Yes,June
+69,Volta,Ho,20,Male,No,Positive,Yes,November
+70,Central,Cape Coast,31,Female,Yes,Negative,Yes,April
+71,Ashanti,Ejisu,45,Female,No,Negative,No,July
+72,Bono,Sunyani,11,Female,Yes,Positive,Yes,April
+73,Central,Cape Coast,40,Male,No,Negative,Yes,December
+74,Northern,Tamale,14,Male,Yes,Positive,No,September
+75,Central,Cape Coast,7,Male,Yes,Positive,Yes,October
+76,Volta,Ho,52,Male,Yes,Positive,No,December
+77,Volta,Ho,30,Female,Yes,Negative,Yes,May
+78,Volta,Ho,15,Female,No,Positive,Yes,December
+79,Central,Cape Coast,37,Male,No,Negative,No,February
+80,Bono,Sunyani,31,Female,Yes,Negative,No,August
+81,Volta,Ho,52,Male,No,Negative,Yes,July
+82,Ashanti,Asokore,28,Male,No,Negative,Yes,April
+83,Bono,Sunyani,4,Female,Yes,Negative,Yes,March
+84,Bono,Sunyani,57,Female,No,Negative,No,December
+85,Bono,Sunyani,12,Male,No,Negative,Yes,April
+86,Northern,Tamale,13,Male,No,Negative,Yes,June
+87,Central,Cape Coast,10,Male,Yes,Negative,Yes,January
+88,Volta,Ho,8,Female,No,Negative,Yes,January
+89,Volta,Ho,22,Male,Yes,Negative,Yes,November
+90,Northern,Tamale,19,Female,No,Positive,No,August
+91,Volta,Ho,44,Female,Yes,Negative,No,December
+92,Volta,Ho,18,Female,Yes,Negative,No,April
+93,Ashanti,Ejisu,59,Female,No,Negative,Yes,October
+94,Bono,Sunyani,38,Male,No,Negative,Yes,November
+95,Volta,Ho,9,Female,Yes,Negative,Yes,July
+96,Ashanti,Ejisu,6,Female,No,Negative,Yes,December
+97,Bono,Sunyani,36,Male,No,Positive,Yes,April
+98,Ashanti,Ejisu,16,Male,Yes,Negative,Yes,November
+99,Central,Cape Coast,48,Female,Yes,Negative,Yes,June
+100,Northern,Tamale,50,Male,Yes,Positive,Yes,July
+101,Ashanti,Ejisu,58,Male,Yes,Negative,Yes,August
+102,Ashanti,Ejisu,46,Female,Yes,Negative,Yes,July
+103,Central,Cape Coast,28,Male,Yes,Positive,Yes,October
+104,Ashanti,Ejisu,49,Male,No,Negative,No,August
+105,Bono,Sunyani,40,Female,Yes,Negative,Yes,January
+106,Central,Cape Coast,51,Male,No,Negative,Yes,August
+107,Volta,Ho,55,Female,No,Negative,Yes,December
+108,Ashanti,Ejisu,56,Female,Yes,Negative,Yes,January
+109,Ashanti,Ejisu,41,Female,No,Negative,Yes,August
+110,Volta,Ho,4,Male,No,Positive,Yes,February
+111,Ashanti,Ejisu,7,Male,No,Negative,Yes,October
+112,Northern,Tamale,38,Male,No,Positive,Yes,June
+113,Ashanti,Asokore,4,Male,Yes,Negative,No,September
+114,Ashanti,Asokore,14,Male,No,Negative,Yes,May
+115,Central,Cape Coast,14,Male,Yes,Positive,Yes,May
+116,Bono,Sunyani,45,Male,No,Negative,No,August
+117,Bono,Sunyani,37,Male,No,Negative,No,November
+118,Bono,Sunyani,30,Female,No,Negative,Yes,December
+119,Bono,Sunyani,45,Male,No,Negative,No,June
+120,Northern,Tamale,18,Male,Yes,Positive,Yes,June
+121,Central,Cape Coast,4,Male,Yes,Negative,No,November
+122,Northern,Tamale,47,Female,No,Negative,Yes,December
+123,Central,Cape Coast,50,Female,No,Negative,No,February
+124,Ashanti,Asokore,18,Male,No,Negative,Yes,July
+125,Northern,Tamale,18,Male,No,Negative,Yes,September
+126,Volta,Ho,16,Female,Yes,Positive,Yes,May
+127,Northern,Tamale,52,Male,Yes,Negative,No,December
+128,Ashanti,Asokore,22,Male,No,Negative,Yes,April
+129,Central,Cape Coast,24,Male,Yes,Negative,Yes,January
+130,Ashanti,Ejisu,39,Female,No,Negative,No,December
+131,Volta,Ho,56,Male,Yes,Negative,Yes,January
+132,Volta,Ho,9,Male,Yes,Positive,No,March
+133,Volta,Ho,23,Male,Yes,Negative,Yes,June
+134,Volta,Ho,39,Male,Yes,Positive,Yes,February
+135,Central,Cape Coast,53,Male,Yes,Negative,No,August
+136,Northern,Tamale,28,Female,Yes,Negative,Yes,August
+137,Bono,Sunyani,3,Male,No,Negative,Yes,November
+138,Volta,Ho,47,Male,Yes,Positive,No,August
+139,Central,Cape Coast,28,Female,No,Positive,No,November
+140,Bono,Sunyani,16,Male,Yes,Negative,Yes,October
+141,Central,Cape Coast,57,Male,Yes,Negative,Yes,March
+142,Bono,Sunyani,50,Male,No,Negative,Yes,September
+143,Northern,Tamale,11,Male,Yes,Negative,Yes,August
+144,Northern,Tamale,37,Female,No,Negative,No,October
+145,Ashanti,Asokore,59,Female,No,Negative,No,February
+146,Ashanti,Ejisu,23,Female,Yes,Negative,Yes,September
+147,Ashanti,Ejisu,35,Female,No,Negative,No,December
+148,Volta,Ho,55,Male,Yes,Positive,No,October
+149,Bono,Sunyani,14,Male,Yes,Positive,Yes,September
+150,Volta,Ho,44,Female,Yes,Negative,Yes,August
+151,Volta,Ho,10,Male,No,Negative,Yes,December
+152,Volta,Ho,4,Male,No,Negative,No,May
+153,Volta,Ho,59,Female,Yes,Negative,Yes,March
+154,Volta,Ho,28,Male,No,Negative,Yes,September
+155,Volta,Ho,28,Female,No,Negative,Yes,August
+156,Ashanti,Ejisu,45,Female,Yes,Negative,Yes,June
+157,Ashanti,Ejisu,56,Male,No,Positive,Yes,July
+158,Central,Cape Coast,36,Female,Yes,Negative,No,January
+159,Ashanti,Asokore,20,Male,No,Negative,No,November
+160,Ashanti,Asokore,28,Male,No,Negative,Yes,February
+161,Volta,Ho,20,Female,Yes,Negative,Yes,January
+162,Ashanti,Ejisu,59,Male,Yes,Negative,Yes,October
+163,Ashanti,Ejisu,11,Male,Yes,Negative,Yes,October
+164,Northern,Tamale,14,Male,No,Negative,Yes,November
+165,Central,Cape Coast,54,Male,No,Negative,Yes,October
+166,Northern,Tamale,7,Female,Yes,Negative,Yes,December
+167,Volta,Ho,8,Male,Yes,Positive,Yes,April
+168,Ashanti,Asokore,55,Female,No,Negative,Yes,June
+169,Volta,Ho,44,Male,No,Negative,Yes,February
+170,Ashanti,Ejisu,55,Female,No,Negative,No,September
+171,Volta,Ho,16,Female,No,Positive,No,October
+172,Bono,Sunyani,53,Male,Yes,Negative,Yes,September
+173,Bono,Sunyani,23,Female,No,Negative,Yes,April
+174,Ashanti,Ejisu,52,Female,No,Negative,No,August
+175,Ashanti,Ejisu,31,Male,Yes,Positive,No,October
+176,Volta,Ho,30,Male,Yes,Negative,No,February
+177,Ashanti,Asokore,7,Female,Yes,Positive,Yes,June
+178,Northern,Tamale,5,Male,No,Negative,Yes,November
+179,Volta,Ho,50,Female,Yes,Negative,Yes,June
+180,Bono,Sunyani,31,Female,Yes,Negative,Yes,March
+181,Central,Cape Coast,10,Female,Yes,Negative,Yes,September
+182,Volta,Ho,5,Female,No,Positive,Yes,October
+183,Northern,Tamale,43,Male,No,Negative,No,August
+184,Volta,Ho,47,Male,Yes,Positive,No,December
+185,Central,Cape Coast,10,Male,Yes,Positive,Yes,January
+186,Central,Cape Coast,21,Male,Yes,Negative,Yes,May
+187,Central,Cape Coast,32,Female,No,Negative,Yes,February
+188,Bono,Sunyani,19,Male,Yes,Negative,Yes,January
+189,Northern,Tamale,36,Male,No,Negative,No,October
+190,Ashanti,Ejisu,19,Female,Yes,Negative,Yes,February
+191,Bono,Sunyani,24,Male,Yes,Positive,Yes,December
+192,Bono,Sunyani,30,Female,No,Negative,Yes,August
+193,Northern,Tamale,13,Female,No,Negative,Yes,June
+194,Ashanti,Asokore,45,Male,No,Positive,Yes,October
+195,Ashanti,Ejisu,8,Female,No,Negative,Yes,October
+196,Central,Cape Coast,53,Female,No,Negative,Yes,June
+197,Volta,Ho,47,Male,Yes,Positive,No,December
+198,Northern,Tamale,43,Male,No,Positive,No,December
+199,Ashanti,Ejisu,46,Male,No,Negative,Yes,December
+200,Bono,Sunyani,10,Male,No,Negative,Yes,February
+201,Ashanti,Ejisu,32,Male,No,Negative,Yes,February
+202,Bono,Sunyani,59,Female,No,Negative,Yes,February
+203,Central,Cape Coast,47,Female,No,Positive,No,April
+204,Ashanti,Asokore,9,Male,Yes,Negative,Yes,July
+205,Ashanti,Ejisu,48,Male,No,Negative,No,December
+206,Northern,Tamale,49,Female,No,Negative,Yes,February
+207,Northern,Tamale,49,Female,No,Positive,Yes,February
+208,Central,Cape Coast,32,Male,Yes,Positive,Yes,January
+209,Volta,Ho,57,Male,No,Negative,Yes,June
+210,Central,Cape Coast,23,Male,No,Negative,Yes,September
+211,Ashanti,Ejisu,22,Female,No,Negative,Yes,June
+212,Central,Cape Coast,13,Female,No,Negative,No,June
+213,Central,Cape Coast,9,Male,Yes,Negative,No,June
+214,Central,Cape Coast,7,Male,No,Negative,Yes,March
+215,Bono,Sunyani,39,Male,Yes,Negative,Yes,April
+216,Bono,Sunyani,22,Male,No,Negative,No,February
+217,Bono,Sunyani,51,Male,Yes,Negative,No,August
+218,Ashanti,Asokore,54,Female,Yes,Negative,No,December
+219,Ashanti,Asokore,7,Male,No,Negative,Yes,March
+220,Ashanti,Asokore,10,Male,Yes,Positive,No,January
+221,Northern,Tamale,21,Male,No,Negative,Yes,February
+222,Bono,Sunyani,25,Female,Yes,Negative,Yes,September
+223,Bono,Sunyani,13,Female,No,Negative,No,July
+224,Northern,Tamale,4,Female,No,Negative,No,August
+225,Northern,Tamale,24,Female,Yes,Positive,No,October
+226,Bono,Sunyani,8,Male,No,Negative,No,January
+227,Bono,Sunyani,55,Female,No,Negative,No,November
+228,Bono,Sunyani,16,Male,No,Negative,Yes,September
+229,Northern,Tamale,34,Male,No,Positive,Yes,September
+230,Northern,Tamale,35,Male,No,Negative,No,August
+231,Ashanti,Asokore,29,Male,Yes,Negative,Yes,June
+232,Volta,Ho,54,Male,No,Negative,Yes,September
+233,Northern,Tamale,21,Male,No,Negative,No,June
+234,Central,Cape Coast,46,Female,Yes,Negative,Yes,November
+235,Bono,Sunyani,18,Male,Yes,Negative,Yes,January
+236,Central,Cape Coast,47,Male,No,Negative,No,May
+237,Central,Cape Coast,26,Female,Yes,Negative,Yes,October
+238,Central,Cape Coast,37,Female,Yes,Negative,Yes,February
+239,Northern,Tamale,25,Male,No,Negative,Yes,September
+240,Bono,Sunyani,52,Male,No,Negative,Yes,June
+241,Bono,Sunyani,3,Male,Yes,Positive,No,September
+242,Central,Cape Coast,3,Male,Yes,Negative,Yes,December
+243,Volta,Ho,59,Female,No,Negative,Yes,September
+244,Bono,Sunyani,21,Male,No,Negative,No,December
+245,Ashanti,Ejisu,57,Male,Yes,Negative,No,February
+246,Volta,Ho,55,Female,Yes,Negative,No,November
+247,Bono,Sunyani,55,Male,Yes,Negative,Yes,January
+248,Bono,Sunyani,15,Male,No,Negative,Yes,March
+249,Central,Cape Coast,5,Female,No,Positive,No,May
+250,Volta,Ho,25,Female,No,Negative,No,June
+251,Ashanti,Ejisu,18,Male,No,Negative,Yes,December
+252,Ashanti,Asokore,7,Male,Yes,Negative,Yes,September
+253,Ashanti,Asokore,34,Female,No,Negative,No,September
+254,Central,Cape Coast,40,Female,Yes,Negative,Yes,December
+255,Volta,Ho,17,Male,No,Negative,Yes,May
+256,Northern,Tamale,10,Female,No,Negative,Yes,February
+257,Ashanti,Asokore,25,Female,No,Negative,No,June
+258,Volta,Ho,53,Female,No,Negative,Yes,October
+259,Bono,Sunyani,10,Male,No,Negative,Yes,June
+260,Bono,Sunyani,51,Male,No,Negative,Yes,June
+261,Ashanti,Asokore,32,Female,No,Negative,No,April
+262,Volta,Ho,18,Male,Yes,Negative,Yes,September
+263,Central,Cape Coast,13,Male,Yes,Negative,Yes,February
+264,Bono,Sunyani,50,Female,No,Negative,No,August
+265,Ashanti,Asokore,33,Female,Yes,Negative,No,May
+266,Ashanti,Ejisu,21,Male,No,Negative,No,October
+267,Central,Cape Coast,51,Female,Yes,Negative,Yes,January
+268,Volta,Ho,34,Male,Yes,Negative,Yes,March
+269,Volta,Ho,14,Male,No,Negative,Yes,September
+270,Ashanti,Asokore,48,Male,Yes,Negative,Yes,June
+271,Ashanti,Asokore,47,Male,Yes,Negative,No,June
+272,Central,Cape Coast,29,Female,No,Negative,Yes,August
+273,Bono,Sunyani,41,Male,No,Negative,No,December
+274,Ashanti,Asokore,39,Male,No,Negative,Yes,July
+275,Central,Cape Coast,32,Male,Yes,Negative,Yes,April
+276,Ashanti,Asokore,16,Female,No,Negative,Yes,December
+277,Bono,Sunyani,32,Female,No,Negative,Yes,February
+278,Northern,Tamale,9,Male,No,Negative,Yes,April
+279,Bono,Sunyani,32,Female,No,Negative,Yes,June
+280,Northern,Tamale,41,Female,Yes,Negative,Yes,September
+281,Bono,Sunyani,26,Male,No,Negative,Yes,September
+282,Volta,Ho,29,Male,No,Negative,Yes,November
+283,Central,Cape Coast,14,Female,Yes,Negative,No,January
+284,Ashanti,Ejisu,31,Female,Yes,Negative,No,February
+285,Central,Cape Coast,44,Male,No,Positive,No,October
+286,Northern,Tamale,28,Male,No,Negative,Yes,November
+287,Bono,Sunyani,47,Female,No,Negative,Yes,November
+288,Northern,Tamale,41,Male,No,Negative,No,July
+289,Northern,Tamale,27,Male,No,Negative,Yes,October
+290,Northern,Tamale,18,Male,Yes,Negative,Yes,May
+291,Volta,Ho,6,Male,Yes,Positive,Yes,October
+292,Bono,Sunyani,56,Female,No,Positive,Yes,April
+293,Northern,Tamale,3,Female,Yes,Negative,Yes,January
+294,Ashanti,Asokore,54,Female,Yes,Positive,No,February
+295,Volta,Ho,51,Male,No,Negative,No,February
+296,Volta,Ho,13,Male,Yes,Negative,No,February
+297,Bono,Sunyani,21,Female,No,Negative,No,January
+298,Northern,Tamale,15,Female,No,Positive,No,February
+299,Bono,Sunyani,48,Female,No,Positive,No,April
+300,Northern,Tamale,22,Male,Yes,Positive,Yes,June
+301,Volta,Ho,45,Female,No,Negative,Yes,April
+302,Northern,Tamale,11,Female,No,Negative,Yes,May
+303,Northern,Tamale,6,Female,No,Positive,Yes,February
+304,Bono,Sunyani,46,Female,No,Positive,No,June
+305,Central,Cape Coast,27,Male,No,Positive,Yes,April
+306,Central,Cape Coast,6,Male,Yes,Negative,Yes,December
+307,Volta,Ho,44,Female,No,Positive,Yes,February
+308,Central,Cape Coast,43,Female,No,Positive,No,December
+309,Ashanti,Asokore,33,Female,Yes,Negative,Yes,November
+310,Central,Cape Coast,9,Male,No,Negative,Yes,September
+311,Ashanti,Ejisu,27,Female,Yes,Negative,Yes,January
+312,Northern,Tamale,5,Male,No,Negative,Yes,April
+313,Volta,Ho,22,Male,No,Negative,No,April
+314,Bono,Sunyani,8,Male,No,Negative,No,October
+315,Central,Cape Coast,54,Female,No,Negative,Yes,January
+316,Central,Cape Coast,27,Male,No,Negative,Yes,April
+317,Northern,Tamale,56,Female,No,Negative,Yes,September
+318,Bono,Sunyani,28,Male,No,Negative,Yes,October
+319,Volta,Ho,24,Male,Yes,Positive,Yes,March
+320,Volta,Ho,10,Female,No,Negative,No,September
+321,Central,Cape Coast,11,Female,No,Positive,Yes,May
+322,Bono,Sunyani,48,Female,No,Negative,Yes,March
+323,Ashanti,Asokore,20,Female,No,Negative,No,March
+324,Ashanti,Ejisu,59,Male,No,Negative,Yes,April
+325,Central,Cape Coast,11,Female,No,Negative,Yes,December
+326,Ashanti,Ejisu,31,Male,Yes,Positive,Yes,September
+327,Ashanti,Ejisu,58,Male,Yes,Negative,Yes,November
+328,Bono,Sunyani,30,Female,Yes,Positive,No,November
+329,Northern,Tamale,11,Male,No,Negative,Yes,February
+330,Central,Cape Coast,31,Female,No,Negative,No,June
+331,Northern,Tamale,57,Female,No,Negative,Yes,December
+332,Ashanti,Ejisu,7,Female,Yes,Negative,Yes,March
+333,Northern,Tamale,17,Female,No,Negative,Yes,December
+334,Ashanti,Asokore,56,Male,Yes,Positive,Yes,August
+335,Ashanti,Asokore,41,Female,Yes,Negative,Yes,November
+336,Ashanti,Asokore,38,Female,No,Positive,Yes,May
+337,Northern,Tamale,23,Male,No,Negative,No,July
+338,Northern,Tamale,43,Female,Yes,Positive,No,April
+339,Central,Cape Coast,29,Female,Yes,Negative,Yes,May
+340,Volta,Ho,26,Female,No,Negative,No,October
+341,Bono,Sunyani,27,Male,No,Positive,No,October
+342,Ashanti,Ejisu,8,Female,No,Negative,No,October
+343,Ashanti,Ejisu,24,Male,No,Negative,Yes,September
+344,Ashanti,Ejisu,34,Male,Yes,Positive,Yes,April
+345,Central,Cape Coast,35,Male,No,Negative,Yes,April
+346,Ashanti,Ejisu,46,Female,No,Negative,No,June
+347,Volta,Ho,38,Female,No,Negative,Yes,November
+348,Bono,Sunyani,17,Male,No,Negative,No,May
+349,Ashanti,Ejisu,15,Male,No,Negative,Yes,June
+350,Northern,Tamale,24,Male,No,Negative,No,January
+351,Bono,Sunyani,58,Female,No,Negative,Yes,September
+352,Central,Cape Coast,50,Female,No,Positive,Yes,July
+353,Ashanti,Asokore,25,Female,No,Negative,No,January
+354,Bono,Sunyani,25,Male,No,Negative,No,July
+355,Ashanti,Ejisu,16,Female,No,Negative,Yes,October
+356,Ashanti,Asokore,43,Male,Yes,Negative,Yes,February
+357,Bono,Sunyani,15,Male,No,Negative,Yes,March
+358,Northern,Tamale,32,Male,No,Positive,Yes,March
+359,Ashanti,Asokore,24,Male,No,Negative,Yes,February
+360,Ashanti,Asokore,17,Female,No,Negative,Yes,August
+361,Volta,Ho,40,Female,Yes,Positive,No,January
+362,Central,Cape Coast,8,Female,No,Negative,Yes,September
+363,Bono,Sunyani,20,Male,No,Negative,No,September
+364,Central,Cape Coast,41,Female,Yes,Negative,No,August
+365,Ashanti,Ejisu,4,Male,Yes,Negative,Yes,December
+366,Volta,Ho,32,Male,Yes,Negative,Yes,July
+367,Bono,Sunyani,13,Female,No,Negative,Yes,December
+368,Bono,Sunyani,12,Female,Yes,Positive,Yes,January
+369,Volta,Ho,35,Female,Yes,Positive,Yes,July
+370,Northern,Tamale,21,Female,Yes,Negative,No,August
+371,Northern,Tamale,8,Male,Yes,Positive,No,April
+372,Northern,Tamale,55,Female,Yes,Negative,Yes,August
+373,Ashanti,Ejisu,8,Female,Yes,Positive,Yes,January
+374,Northern,Tamale,15,Female,No,Negative,Yes,April
+375,Volta,Ho,7,Male,No,Negative,No,March
+376,Bono,Sunyani,50,Male,No,Positive,Yes,February
+377,Central,Cape Coast,57,Male,Yes,Negative,Yes,February
+378,Northern,Tamale,13,Female,No,Negative,No,December
+379,Ashanti,Ejisu,16,Male,Yes,Negative,Yes,March
+380,Volta,Ho,20,Male,No,Negative,Yes,September
+381,Central,Cape Coast,15,Female,Yes,Positive,Yes,December
+382,Volta,Ho,43,Female,No,Positive,Yes,November
+383,Ashanti,Asokore,33,Female,No,Negative,No,August
+384,Volta,Ho,59,Male,No,Positive,No,April
+385,Bono,Sunyani,37,Male,No,Negative,Yes,February
+386,Volta,Ho,3,Male,No,Negative,No,November
+387,Northern,Tamale,13,Female,Yes,Positive,Yes,March
+388,Volta,Ho,13,Male,Yes,Positive,Yes,May
+389,Volta,Ho,12,Female,No,Negative,Yes,January
+390,Ashanti,Asokore,29,Male,Yes,Negative,Yes,May
+391,Bono,Sunyani,40,Female,Yes,Positive,Yes,December
+392,Volta,Ho,35,Female,Yes,Negative,Yes,October
+393,Bono,Sunyani,16,Female,No,Negative,Yes,August
+394,Central,Cape Coast,24,Male,No,Positive,Yes,November
+395,Central,Cape Coast,59,Male,Yes,Positive,Yes,June
+396,Northern,Tamale,38,Male,No,Negative,Yes,May
+397,Ashanti,Ejisu,47,Female,Yes,Negative,No,April
+398,Northern,Tamale,35,Male,Yes,Positive,Yes,September
+399,Volta,Ho,30,Female,Yes,Negative,Yes,May
+400,Central,Cape Coast,27,Male,Yes,Negative,Yes,January
